@@ -1,0 +1,40 @@
+Завдання на понеділок (11/10/21)
+Самостійно опрацювати наступні відео:
+1. Test Approaches. Test Level. Test Types: https://www.youtube.com/watch?v=5e46PY3LoNA&list=PLBfS5ZOspyhWaMv9B4GbnzsRRHfa8AZMA&index=8
+2. Defect Tracking: https://www.youtube.com/watch?v=ISfLIlShmbM&list=PLBfS5ZOspyhWaMv9B4GbnzsRRHfa8AZMA&index=5&t=2s
+
+Також ознайомитися з наступними темами і підготувати питання для Олега по них :)
+1. Test Execution: https://www.youtube.com/watch?v=txMnN1l1pfo&list=PLBfS5ZOspyhWaMv9B4GbnzsRRHfa8AZMA&index=6&t=1s
+2. Test Design Techniques: https://www.youtube.com/watch?v=b3aFEkLP9kM&list=PLBfS5ZOspyhWaMv9B4GbnzsRRHfa8AZMA&index=10
+3. Requirement Analysis: https://www.youtube.com/watch?v=BSiOYcbROZk&list=PLBfS5ZOspyhWaMv9B4GbnzsRRHfa8AZMA&index=9&t=3s
+
+Завдання на середу (13/10/21)
+№1. Протестувати предмет на вибір (не олівець і не кружку), а щось цікавіше )
+  Застосувати наступні Test Types:
+ #Функціональне тестування
+  - Smoke (основний функціонал без якого не можна буде продовжити тестування)
+  - Інші функції вашого предмету
+ #Нефункціональне тестування
+  - Performens
+  - Stress
+  - Crash
+  - Security
+  - Maintainability
+  - Localisation
+  - Usability
+  - також можуть бути й інші види про які більш детально вказано тут - (Test Approaches. Test Level. Test Types)
+
+
+№2. Провести ad-hoc тестінг Open Cart, спробувати знайти і описати 2-3 дефекти. По відповідній структурі (з якою ознайомитеся коли розберете тему - (Defect Tracking).
+
+Open Cart Main page -> https://demo.opencart.com/index.php?route=common/home
+Open Cart Admin panel  -> https://demo.opencart.com/admin/
+Note: Якщо не до кінця впевнені чи знайшли дефект, чи ні, можете писати в приват, будемо розбиратися
+
+
+№3. Написати по 3 тесткейси для Open Cart з другого завдання. В тесткейсі потрібно все описати та структурувати про яку дізнаєтеся з теми - (Test Execution).
+
+
+№4. До тесткейсів які ви зробили, потрібно описати тест дизайн техніки які ви використовували, чому саме їх, якщо робили таблички, діаграми і т.д. то прикріпити їх.
+
+
